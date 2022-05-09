@@ -70,5 +70,4 @@ let numSum = num1 + num2
 function firstFunction(){
     console.log(numSum)
     }
-
 firstFunction()
