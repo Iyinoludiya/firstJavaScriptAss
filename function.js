@@ -63,12 +63,12 @@ function intFunction(){
 intFunction()
 
 //sum of integers
+let num1 = 6
+let num2 = 5
+let numSum = num1 + num2
+
 function firstFunction(){
-    let array = [8, 12, 25]
-    let arraySum = 0;
-    for (let i = 0; i < array.length; i++){
-        arraySum = arraySum + array[i]
+    console.log(numSum)
     }
-    console.log(arraySum)
-}
+
 firstFunction()
